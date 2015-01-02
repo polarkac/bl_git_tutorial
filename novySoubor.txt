@@ -1,4 +1,4 @@
-Pridal jsem nejaky text
+Toto je novy radek v novaVetev
 tady bude nejaky pekny text
 
 par novych radku
